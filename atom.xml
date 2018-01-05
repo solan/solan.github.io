@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://solan.github.io/"/>
-  <updated>2018-01-05T05:03:05.669Z</updated>
+  <updated>2018-01-05T10:30:34.893Z</updated>
   <id>https://solan.github.io/</id>
   
   <author>
@@ -21,17 +21,13 @@
     <link href="https://solan.github.io/2018/01/05/%E6%96%B0%E5%B9%B4%E7%9B%AE%E6%A0%87/"/>
     <id>https://solan.github.io/2018/01/05/新年目标/</id>
     <published>2018-01-05T03:14:50.000Z</published>
-    <updated>2018-01-05T05:03:05.669Z</updated>
+    <updated>2018-01-05T10:30:34.893Z</updated>
     
-    <content type="html"><![CDATA[<p>2017年算是我人生中可以纪念的一年，因为终于用积蓄买了自己的房子，所以觉得值得写点什么。</p><p>题外话<br>新年工作第一天学了一下怎么搭自己的博客。感兴趣的人可以参考一下。<br><a href="https://xuanwo.org/2015/03/26/hexo-intor/" target="_blank" rel="noopener">史上最详细的Hexo博客搭建图文教程</a><br><a href="http://www.wukai.me/2016/01/13/blog-jekyll-to-hexo/" target="_blank" rel="noopener">将博客从Jekyll迁移至Hexo</a></p><h3 id="工作"><a href="#工作" class="headerlink" title="工作"></a>工作</h3><p>终于暂时讲手头的旅游系统release，从后端到前端统统搞了一遍，用angularjs自己写了一个前端，虽然写的不太好但是勉强够用。<br>年底的时候开始学习React，用alibaba的<a href="https://github.com/dvajs/dva" target="_blank" rel="noopener">开源框架DVA</a>写了跑通了一个简单的前端，今年继续。<br>感觉上前端写的多一些的感觉，后端没什么进步。</p><h3 id="生活"><a href="#生活" class="headerlink" title="生活"></a>生活</h3><p>用光了所有的积蓄买了一套房子，觉得终于在东京不是浮萍的状态，有了些归属感和自信心。<br>完成了自己的夙愿，养了两只猫，喵喵和小小，一只美短一只布偶。喵喵跟我感情好一些，小小很粘人但是貌似还是有点怕我。<br>小小刚来家里时候得了重感冒，传染给了喵喵。导致我天天跑宠物医院，整个医院的人都认识我了。另外医生很帅。</p><h3 id="学习"><a href="#学习" class="headerlink" title="学习"></a>学习</h3><p>法语经过一年的努力，终于入门，对话比以前纯熟，可以表达一些自己的想说的话了，不想去年憋了半天说不出来只好说英语。<br>A1的课本快学完了，继续A2，学到B2就不学吗还在考虑。打算再开个技能树，西班牙语或者韩语<br>CFA2级应该是准备时间不够充分，没有考过。有点厌倦也没有再学。看看来年要不要学。</p><h3 id="娱乐"><a href="#娱乐" class="headerlink" title="娱乐"></a>娱乐</h3><p>根据蔡康永的书单买了很多书看。目前只读完了伊坂幸太郎的《死神的浮力》，看完后再看江歌案很有感触。<br>日剧因为B站没有了，看的非常少。<br>夏天买机票去南京看了TF的演唱会，觉得我比较适合在家里看他们。最近他们也各自活动，毫无激情。</p><hr><p>2018年再接再厉，努力技术上有所进步，赚得钱越来越多。努力点亮技能树。<br>努力写博客，每天都记录一下自己的进步。</p>]]></content>
+    <content type="html"><![CDATA[<p>2017年算是我人生中可以纪念的一年，因为终于用积蓄买了自己的房子，所以觉得值得写点什么。<br><a id="more"></a></p><p>题外话<br>新年工作第一天学了一下怎么搭自己的博客。感兴趣的人可以参考一下。<br><a href="https://xuanwo.org/2015/03/26/hexo-intor/" target="_blank" rel="noopener">史上最详细的Hexo博客搭建图文教程</a><br><a href="http://www.wukai.me/2016/01/13/blog-jekyll-to-hexo/" target="_blank" rel="noopener">将博客从Jekyll迁移至Hexo</a></p><h3 id="工作"><a href="#工作" class="headerlink" title="工作"></a>工作</h3><p>终于暂时讲手头的旅游系统release，从后端到前端统统搞了一遍，用angularjs自己写了一个前端，虽然写的不太好但是勉强够用。<br>年底的时候开始学习React，用alibaba的<a href="https://github.com/dvajs/dva" target="_blank" rel="noopener">开源框架DVA</a>写了跑通了一个简单的前端，今年继续。<br>感觉上前端写的多一些的感觉，后端没什么进步。</p><h3 id="生活"><a href="#生活" class="headerlink" title="生活"></a>生活</h3><p>用光了所有的积蓄买了一套房子，觉得终于在东京不是浮萍的状态，有了些归属感和自信心。<br>完成了自己的夙愿，养了两只猫，喵喵和小小，一只美短一只布偶。喵喵跟我感情好一些，小小很粘人但是貌似还是有点怕我。<br>小小刚来家里时候得了重感冒，传染给了喵喵。导致我天天跑宠物医院，整个医院的人都认识我了。另外医生很帅。</p><h3 id="学习"><a href="#学习" class="headerlink" title="学习"></a>学习</h3><p>法语经过一年的努力，终于入门，对话比以前纯熟，可以表达一些自己的想说的话了，不想去年憋了半天说不出来只好说英语。<br>A1的课本快学完了，继续A2，学到B2就不学吗还在考虑。打算再开个技能树，西班牙语或者韩语<br>CFA2级应该是准备时间不够充分，没有考过。有点厌倦也没有再学。看看来年要不要学。</p><h3 id="娱乐"><a href="#娱乐" class="headerlink" title="娱乐"></a>娱乐</h3><p>根据蔡康永的书单买了很多书看。目前只读完了伊坂幸太郎的《死神的浮力》，看完后再看江歌案很有感触。<br>日剧因为B站没有了，看的非常少。<br>夏天买机票去南京看了TF的演唱会，觉得我比较适合在家里看他们。最近他们也各自活动，毫无激情。</p><hr><p>2018年再接再厉，努力技术上有所进步，赚得钱越来越多。努力点亮技能树。<br>努力写博客，每天都记录一下自己的进步。</p>]]></content>
     
     <summary type="html">
     
-      
-      
-        &lt;p&gt;2017年算是我人生中可以纪念的一年，因为终于用积蓄买了自己的房子，所以觉得值得写点什么。&lt;/p&gt;
-&lt;p&gt;题外话&lt;br&gt;新年工作第一天学了一下怎么搭自己的博客。感兴趣的人可以参考一下。&lt;br&gt;&lt;a href=&quot;https://xuanwo.org/2015/03/26/he
-      
+      &lt;p&gt;2017年算是我人生中可以纪念的一年，因为终于用积蓄买了自己的房子，所以觉得值得写点什么。&lt;br&gt;
     
     </summary>
     
