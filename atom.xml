@@ -5,9 +5,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
-  <updated>2018-01-05T03:14:28.417Z</updated>
-  <id>http://yoursite.com/</id>
+  <link href="https://solan.github.io/"/>
+  <updated>2018-01-05T03:15:43.394Z</updated>
+  <id>https://solan.github.io/</id>
   
   <author>
     <name>Jing Chen</name>
@@ -18,16 +18,16 @@
   
   <entry>
     <title>新年目标</title>
-    <link href="http://yoursite.com/2018/01/05/%E6%96%B0%E5%B9%B4%E7%9B%AE%E6%A0%87/"/>
-    <id>http://yoursite.com/2018/01/05/新年目标/</id>
+    <link href="https://solan.github.io/2018/01/05/%E6%96%B0%E5%B9%B4%E7%9B%AE%E6%A0%87/"/>
+    <id>https://solan.github.io/2018/01/05/新年目标/</id>
     <published>2018-01-05T03:14:50.000Z</published>
-    <updated>2018-01-05T03:14:28.417Z</updated>
+    <updated>2018-01-05T03:15:43.394Z</updated>
     
     <summary type="html">
     
     </summary>
     
-      <category term="杂谈   /" scheme="http://yoursite.com/categories/%E6%9D%82%E8%B0%88/"/>
+      <category term="杂谈" scheme="https://solan.github.io/categories/%E6%9D%82%E8%B0%88/"/>
     
     
   </entry>
