@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://solan.github.io/"/>
-  <updated>2018-01-05T10:30:34.893Z</updated>
+  <updated>2018-01-18T03:49:03.571Z</updated>
   <id>https://solan.github.io/</id>
   
   <author>
@@ -15,6 +15,26 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>尝试聊天机器人</title>
+    <link href="https://solan.github.io/2018/01/18/%E5%B0%9D%E8%AF%95%E8%81%8A%E5%A4%A9%E6%9C%BA%E5%99%A8%E4%BA%BA/"/>
+    <id>https://solan.github.io/2018/01/18/尝试聊天机器人/</id>
+    <published>2018-01-18T03:34:50.000Z</published>
+    <updated>2018-01-18T03:49:03.571Z</updated>
+    
+    <content type="html"><![CDATA[<p>2017年被称之聊天机器人之年。日本主流的messenger应该是Line，利用他们的<a href="https://developers.line.me/en/docs/messaging-api/getting-started/" target="_blank" rel="noopener">Messing API</a>可以简单做一个bot出来。<br><a id="more"></a></p><h3 id="缘起"><a href="#缘起" class="headerlink" title="缘起"></a>缘起</h3><p>以前住池袋附近，回家之前会在池袋附近的百货解决掉晚饭后回家。但是选择恐惧症的我，在一层楼逛了好久也不知道吃什么。就跟朋友说不如做个小工具出来，可以随机抽一个附近的餐馆。<br>所以这个Bot的名字就叫做”レストランのおみくじ”。おくじみ是去神社求签的意思，给日本人看的时候他们觉得这个名字很可爱。</p><h3 id="开发过程"><a href="#开发过程" class="headerlink" title="开发过程"></a>开发过程</h3><p><a href="https://github.com/solan/restaurant_omikuji" target="_blank" rel="noopener">源码请查看这里</a></p><p>参考了几个日本人写的blog</p><ul><li><a href="http://takagusu.hateblo.jp/entry/2017/03/08/223401" target="_blank" rel="noopener">近くの神社を教えてくれる LINE Bot を作ってみました</a></li><li><a href="https://qiita.com/kota2_0/items/17893b0d442ef27a1691" target="_blank" rel="noopener">【LINE BOT API】位置情報を送ると近くのラーメン屋さんを教えてくれるBOTを作ってみました</a></li></ul><p>主要原理是当跟Line Bot聊天时候，Line Bot会调用一个Callback，发送Message和token。Message分几种类型，这里使用的Location信息，有精度和纬度。<br>有了精度和纬度就好办了，<a href="https://webservice.recruit.co.jp/hotpepper/reference.html" target="_blank" rel="noopener">Hotpper</a>和<a href="http://api.gnavi.co.jp/api/" target="_blank" rel="noopener">GuruNavi</a>（相当于中国的点评网）都提供API，查询这个地理位置附近的餐馆。</p><p>然后如果想要指定只吃中餐怎么办，我目前还不知道session是应该实现的。所以就用MongoDB存了这个用户的喜好，然后下次再扔地理位置的时候，就只显示这个附近的中餐馆了。</p><h3 id="效果图"><a href="#效果图" class="headerlink" title="效果图"></a>效果图</h3><p><img src="/img/line-bot.jpg" alt="Line Bot效果图" title="Line Bot效果图"></p><h3 id="后续"><a href="#后续" class="headerlink" title="后续"></a>后续</h3><p>现在做的是纯网页式的交互，没有自然语言的交互。被人指出这不符合用Messenger人群的习惯。<br>AWS是提供Bot开发的，另外就是IBM的Watson。接下去要研究一下如何继续下去。</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;2017年被称之聊天机器人之年。日本主流的messenger应该是Line，利用他们的&lt;a href=&quot;https://developers.line.me/en/docs/messaging-api/getting-started/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Messing API&lt;/a&gt;可以简单做一个bot出来。&lt;br&gt;
+    
+    </summary>
+    
+      <category term="bot" scheme="https://solan.github.io/categories/bot/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>2017年总结</title>
